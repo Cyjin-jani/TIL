@@ -7,7 +7,7 @@
 <br>
 
 ## Algorithm
-***
+
 
 
 <br>
@@ -15,14 +15,14 @@
 <br>
 
 ## HTML & CSS
-***
+
 
 <br>
 <br>
 <br>
 
 ## JavaScript
-***
+
 
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 ## React
-***
+
 
 
 <br>
@@ -38,7 +38,7 @@
 <br>
 
 ## NextJs
-***
+
 
 
 
@@ -47,7 +47,7 @@
 <br>
 
 ## GIT
-***
+
 + [git의 임시 커밋을 합쳐보자](./Git/mergeCommit.md)
 
 
@@ -56,6 +56,6 @@
 <br>
 
 ## ETC
-***
+
 
 
