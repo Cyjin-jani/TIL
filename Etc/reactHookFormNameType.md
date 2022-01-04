@@ -1,9 +1,8 @@
 ## react-hook-form 커스텀 컴포넌트 name 타입 문제
 <br>
-react-hook-form을 사용하여 컴포넌트를 구성하는 경우, 
-<br>
+react-hook-form을 사용하여 컴포넌트를 구성하는 경우,
 name props에 string 타입을 사용하곤 하였으나,
-<br>
+
 아래와 같은 문제가 나타나곤 했었다. (ts2322)
 
 ```tsx
@@ -21,8 +20,13 @@ name as `${string}`
 
 공식문서에서도 Path를 이용하면 커스텀 컴포넌트의 name 이라는 prop의 타입에 유용하다고 소개하고 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fc6b211-e9e1-41a3-9167-1b429fd73db7/Untitled.png)
+> <> FieldPath <br>
+> This type is useful when you define custom component's name prop.
 
+```
+export type FieldPath<TFieldValues extends FieldValues> = Path<TFieldValues>;
+```
+<br>
 실제 코드 예시는 아래와 같다. (mui 사용한 체크박스)
 
 ```tsx
