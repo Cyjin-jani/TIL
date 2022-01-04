@@ -1,5 +1,5 @@
 ## storybook에서 next/image 사용하기
-***
+
 <br>
 storybook에서는 next/image에서 제공하는 최적화가 제대로 작동하지 않는다. (심지어 에러를 뱉어낸다 ㄷ) <br>
 
