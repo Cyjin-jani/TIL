@@ -25,7 +25,7 @@
 <br>
 
 ## JavaScript
-
++ [이미지 업로드 구현하기](./JavaScript/imgUpload.md)
 
 
 <br>
@@ -69,6 +69,7 @@
 
 ## ETC
 + [react-hook-form에서 name prop의 타입 정하기](./Etc/reactHookFormNameType.md)
++ [kakaoMap활용하기](./Etc/kakaoMap.md)
 
 
 
