@@ -26,7 +26,8 @@
 <br>
 
 ## JavaScript
-+ [이미지 업로드 구현하기](./JavaScript/imgUpload.md)
++ [이미지 업로드 구현하기](./JavaScript&TypeScript/imgUpload.md)
++ [ts와 import 오류에 대해](./JavaScript&TypeScript/importMethods.md)
 
 
 <br>
