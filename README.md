@@ -19,6 +19,7 @@
 + [css속성 user-select 활용하기](./HtmlCss/userSelect.md)
 + [이미지 비율 맞추기 (1대1)](./HtmlCss/imageRatio.md)
 + [말줄임표 구현](./HtmlCss/ellipsis.md)
++ [ios innerShadow 안보이게 하기](./HtmlCss/inputInnerShadow.md)
 
 
 
