@@ -20,6 +20,7 @@
 + [이미지 비율 맞추기 (1대1)](./HtmlCss/imageRatio.md)
 + [말줄임표 구현](./HtmlCss/ellipsis.md)
 + [ios innerShadow 안보이게 하기](./HtmlCss/inputInnerShadow.md)
++ [버튼 outline 제거하기](./HtmlCss/buttonOutline.md)
 
 
 
@@ -58,6 +59,7 @@
 ## GIT
 
 + [git의 임시 커밋을 합쳐보자](./Git/mergeCommit.md)
++ [git 커밋 메세지 수정하기](./Git/changeCommitMsg.md)
 
 
 <br>
