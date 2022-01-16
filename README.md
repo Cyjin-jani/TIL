@@ -21,6 +21,7 @@
 + [말줄임표 구현](./HtmlCss/ellipsis.md)
 + [ios innerShadow 안보이게 하기](./HtmlCss/inputInnerShadow.md)
 + [버튼 outline 제거하기](./HtmlCss/buttonOutline.md)
++ [ios input auto zoom-in 문제해결법](./HtmlCss/iosInputZoom.md)
 
 
 
