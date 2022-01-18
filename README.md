@@ -41,8 +41,9 @@
 <br>
 <br>
 
-## React
-+ [useRef 활용하기](./React/usingUseRef.md)
+## React & Mobx
++ [useRef 활용하기](./React&Mobx/usingUseRef.md)
++ [mobx의 extendObservable](./React&Mobx/extendObservable.md)
 
 
 <br>
