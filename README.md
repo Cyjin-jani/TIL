@@ -23,6 +23,7 @@
 + [버튼 outline 제거하기](./HtmlCss/buttonOutline.md)
 + [ios input auto zoom-in 문제해결법](./HtmlCss/iosInputZoom.md)
 + [element에 포인터 지정이 안되도록 하기](./HtmlCss/pointerEvent.md)
++ [last-child 제대로 사용하기](./HtmlCss/lastChild.md)
 
 
 
