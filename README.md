@@ -45,6 +45,7 @@
 ## React & Mobx
 + [useRef 활용하기](./React&Mobx/usingUseRef.md)
 + [mobx의 extendObservable](./React&Mobx/extendObservable.md)
++ [리스트 렌더링에서 key의 중요성](./React&Mobx/usingKey.md)
 
 
 <br>
