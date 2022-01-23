@@ -55,6 +55,7 @@
 ## NextJs
 + [클립보드 복사하기](./NextJs/clipboardCopy.md)
 + [automatic static optimization](./NextJs/aso.md)
++ [next.config.js 사용하기](./NextJs/nextConfig.md)
 
 
 
