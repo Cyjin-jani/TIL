@@ -36,6 +36,7 @@
 + [ts와 import 오류에 대해](./JavaScript&TypeScript/importMethods.md)
 + [strictMode 8진수 리터럴 오류](./JavaScript&TypeScript/strictModeOctal.md)
 + [타입 검사와 타입 가드](./JavaScript&TypeScript/typeCheck.md)
++ [JS Symbol에 대해](./JavaScript&TypeScript/symbol.md)
 
 
 <br>
