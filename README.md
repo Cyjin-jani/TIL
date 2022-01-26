@@ -48,6 +48,7 @@
 + [useRef 활용하기](./React&Mobx/usingUseRef.md)
 + [mobx의 extendObservable](./React&Mobx/extendObservable.md)
 + [리스트 렌더링에서 key의 중요성](./React&Mobx/usingKey.md)
++ [useReducer에 대해 간단 정리](./React&Mobx/useReducer.md)
 
 
 <br>
