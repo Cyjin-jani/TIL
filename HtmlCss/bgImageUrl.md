@@ -21,7 +21,7 @@ SVG 구현 코드에서 리소스 ID를 사용한다.
 
 내 경우 문제시 되었던 점은, imageUrl이 보통은 괄호를 포함하지 않지만, 이번에 특이하게 괄호를 포함해서 이미지가 안 나오게 되었다.
 
-![Untitled (1)](https://user-images.githubusercontent.com/57857367/151688108-c5176b91-6efb-4fa9-a780-d595a0162b81.png)
+![Untitled (1)](https://user-images.githubusercontent.com/57857367/151688271-884b8827-011c-4027-8780-681fdef36f6b.png)
 
 (느낌표가 뜨며 잘못된 속성값이라 뜸 → 이미지 못 그려줌)
 
