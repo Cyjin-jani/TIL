@@ -25,6 +25,7 @@
 + [element에 포인터 지정이 안되도록 하기](./HtmlCss/pointerEvent.md)
 + [last-child 제대로 사용하기](./HtmlCss/lastChild.md)
 + [background-image: url() 제대로 사용하기](./HtmlCss/bgImageUrl.md)
++ [image hover시 확대 효과주기](./HtmlCss/imageHoverEnlarge.md)
 
 
 
