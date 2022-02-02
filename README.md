@@ -94,6 +94,7 @@
 + [classValidator의 boolean값 판별](./Etc/transIsBoolean.md)
 + [babel-plugin-styled-component사용하기](./Etc/babelPluginSC.md)
 + [react hook form 다루기 - isValid](./Etc/rhkIsValid.md)
++ [class transformer @Type사용하기](./Etc/classTransFormerType.md)
 
 
 
