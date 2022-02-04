@@ -42,6 +42,7 @@
 + [innerHtml과 Sanitization](./JavaScript&TypeScript/sanitization.md)
 + [node modules import 관련 에러 핸들링](./JavaScript&TypeScript/moduleImportError.md)
 + [js window open 다루기](./JavaScript&TypeScript/windowOpen.md)
++ [시간표시 계산 함수 만들기](./JavaScript&TypeScript/displayTime.md)
 
 
 <br>
