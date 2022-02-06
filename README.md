@@ -94,6 +94,7 @@
 + [react-hook-form에서 name prop의 타입 정하기](./Etc/reactHookFormNameType.md)
 + [kakaoMap활용하기](./Etc/kakaoMap.md)
 + [classValidator의 boolean값 판별](./Etc/transIsBoolean.md)
++ [classValidator의 Equal활용하기](./Etc/cvEqual.md)
 + [babel-plugin-styled-component사용하기](./Etc/babelPluginSC.md)
 + [react hook form 다루기 - isValid](./Etc/rhkIsValid.md)
 + [class transformer @Type사용하기](./Etc/classTransFormerType.md)
