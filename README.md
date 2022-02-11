@@ -46,6 +46,7 @@
 + [js window open 다루기](./JavaScript&TypeScript/windowOpen.md)
 + [시간표시 계산 함수 만들기](./JavaScript&TypeScript/displayTime.md)
 + [Array.sort 활용하기](./JavaScript&TypeScript/arraySort.md)
++ [간단하게 랜덤 아이디 만들기](./JavaScript&TypeScript/makeRandomId.md)
 
 
 <br>
