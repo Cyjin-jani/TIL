@@ -108,6 +108,6 @@
 + [class transformer @Type사용하기](./Etc/classTransFormerType.md)
 + [react-hook-form에서 Controller 입혀서 컴포넌트 만들기](./Etc/rhkControllerableComponent.md)
 + [babel-plugin module resolver사용하기](./Etc/bpModuleResolver.md)
-
++ [classValidator 선택적 유효성 검사](./Etc/cvValidateIf.md)
 
 
