@@ -28,6 +28,7 @@
 + [image hover시 확대 효과주기](./HtmlCss/imageHoverEnlarge.md)
 + [input file 같은 파일 업로드](./HtmlCss/inputSameFileUp.md)
 + [스크롤바 숨기기](./HtmlCss/hideScrollbar.md)
++ [box-sizing 제대로 알기 (이미지 테두리 덜컹 이슈)](./HtmlCss/boxSizing.md)
 
 
 
