@@ -51,6 +51,7 @@
 + [file size formatting 함수](./JavaScript&TypeScript/fileSizeFormatter.md)
 + [동적으로 Object key 생성](./JavaScript&TypeScript/makeDynamicObjectKey.md)
 + [Date 한 달전 날짜 구하기](./JavaScript&TypeScript/getMonthAgo.md)
++ [Date 특정 날짜 요일 구하기](./JavaScript&TypeScript/getWhatDay.md)
 
 
 <br>
