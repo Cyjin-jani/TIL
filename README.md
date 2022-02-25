@@ -56,6 +56,7 @@
 + [js 객체 배열 같은 속성 값 묶어서 렌더링하기](./JavaScript&TypeScript/jsMapSamePropArray.md)
 + [Date 날짜간 차이 구하기](./JavaScript&TypeScript/getDateDiff.md)
 + [마스킹 처리(카드번호, 계좌번호)](./JavaScript&TypeScript/maskingFunc.md)
++ [특정 갯수로 배열 나누기 ](./JavaScript&TypeScript/divideArray.md)
 
 
 
