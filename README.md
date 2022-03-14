@@ -59,6 +59,7 @@
 + [마스킹 처리(카드번호, 계좌번호)](./JavaScript&TypeScript/maskingFunc.md)
 + [특정 갯수로 배열 나누기 ](./JavaScript&TypeScript/divideArray.md)
 + [JS 폰 번호 포맷팅 ](./JavaScript&TypeScript/phoneNumFormatting.md)
++ [snb(gnb)의 active 효과 시 경로 판별하기 ](./JavaScript&TypeScript/activeHref.md)
 
 
 
