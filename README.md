@@ -77,6 +77,7 @@
 + [useReducer에 대해 간단 정리](./React&Mobx/useReducer.md)
 + [isMounted를 hook으로 사용하기](./React&Mobx/hookIsMounted.md)
 + [useEffect의 clean-up](./React&Mobx/cleanUp.md)
++ [propTypes children 정의하기](./React&Mobx/propTypesChildren.md)
 
 
 <br>
