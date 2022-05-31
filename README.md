@@ -132,5 +132,5 @@
 + [크로미움 기반 브라우저에서 막혀있는 포트](./Etc/unavailablePort.md)
 + [사용중인 포트 강제 종료하기](./Etc/killUsingPort.md)
 + [react-hook-form 비제어 input에서 value세팅하기 ](./Etc/rhfSetValueAs.md)
-
++ [react-hook-form error시 자동 focus 해제 및 컨트롤](./Etc/rhfOnErrorFocus.md)
 
