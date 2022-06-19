@@ -66,6 +66,7 @@
 + [JS 폰 번호 포맷팅 ](./JavaScript&TypeScript/phoneNumFormatting.md)
 + [snb(gnb)의 active 효과 시 경로 판별하기 ](./JavaScript&TypeScript/activeHref.md)
 + [범용적으로 withComma 사용하기 (숫자 3자리 콤마)](./JavaScript&TypeScript/globalWithComma.md)
++ [간단 Audio 재생 플레이어 만들기](./JavaScript&TypeScript/simpleAudioPlayer.md)
 
 
 
