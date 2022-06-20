@@ -7,7 +7,7 @@
 <br>
 
 ## Algorithm
-
++ [stack에 대해](./Algorithm/stack.md)
 
 
 <br>
