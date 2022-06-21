@@ -8,6 +8,7 @@
 
 ## Algorithm
 + [stack에 대해](./Algorithm/stack.md)
++ [재귀함수 기초 문제들](./Algorithm/recursiveBasic.md)
 
 
 <br>
